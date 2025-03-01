@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/firewalld-cmd%E4%BD%BF%E7%94%A8/</loc>
+    <loc>https://zhixintan.github.io/zhixintan/posts/firewalld-cmd%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2025-03-01T12:02:56+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://zhixintan.github.io/zhixintan/</loc>
     <lastmod>2025-03-01T12:02:56+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://zhixintan.github.io/zhixintan/posts/</loc>
     <lastmod>2025-03-01T12:02:56+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://zhixintan.github.io/zhixintan/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://zhixintan.github.io/zhixintan/tags/</loc>
   </url>
 </urlset>
