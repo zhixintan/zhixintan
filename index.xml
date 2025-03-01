@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Mar 2025 12:02:56 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firewalld Cmd使用</title>
+      <link>https://example.org/posts/firewalld-cmd%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Sat, 01 Mar 2025 12:02:56 +0800</pubDate>
+      <guid>https://example.org/posts/firewalld-cmd%E4%BD%BF%E7%94%A8/</guid>
+      <description>firewall-cmd 是 firewalld的字符界面管理工具&#xA;firewall-cmd &amp;ndash;zone=public &amp;ndash;permanent &amp;ndash;add-port=3690/tcp&#xA;firewall-cmd &amp;ndash;reload # 更新防火墙规则</description>
+    </item>
+  </channel>
+</rss>
